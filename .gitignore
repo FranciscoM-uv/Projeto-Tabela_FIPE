@@ -1,0 +1,5 @@
+venv/
+fipe.db
+banco.py
+__pycache__/
+.env
