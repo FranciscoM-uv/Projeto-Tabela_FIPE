@@ -41,7 +41,9 @@ Acesse o projeto: [ProjetoFinal Gestao de Dados](https://github.com/FranciscoM-u
 
 Segue imagens de como ficou o produto 'final'(cabe melhorias).
 
-<img width="1859" height="847" alt="Captura de tela 2026-10-26 185228" src="https://github.com/user-attachments/assets/2078f5ff-6226-4f6c-8458-65be9f9c8e24" />
-<img width="1672" height="338" alt="Captura de tela 2026-10-26 185241" src="https://github.com/user-attachments/assets/51809d3d-3a5b-429f-8989-5a4b0ea2753d" />
-<img width="1867" height="916" alt="Captura de tela 2026-10-26 185213" src="https://github.com/user-attachments/assets/33defbbe-baf8-45fb-8c11-f1b95fbfee17" />
+![Print 1](https://github.com/user-attachments/assets/2078f5ff-6226-...)
+
+![Print 2](https://github.com/user-attachments/assets/51809d3d-3a5b-...)
+
+![Print 3](https://github.com/user-attachments/assets/33defbbe-baf8-...)
  
