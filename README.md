@@ -39,11 +39,4 @@ Acesse o projeto: [ProjetoFinal Gestao de Dados](https://github.com/FranciscoM-u
 
 ⭐ Projeto desenvolvido para fins de aprendizado e prática.
 
-Segue imagens de como ficou o produto 'final'(cabe melhorias).
 
-![Print 1](https://github.com/user-attachments/assets/2078f5ff-6226-...)
-
-![Print 2](https://github.com/user-attachments/assets/51809d3d-3a5b-...)
-
-![Print 3](https://github.com/user-attachments/assets/33defbbe-baf8-...)
- 
